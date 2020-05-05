@@ -1,0 +1,38 @@
+.login {
+    text-align: center;
+    height: 50%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    font-style: inherit;
+    background-color: aliceblue;
+  }
+
+  input[type=text], input[type=password] {
+    width: 15%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+
+  button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 15%;
+  }
+
+  button:hover {
+    opacity: 0.8;
+  }
+
+  img.avatar {
+    width: 15%;
+    border-radius: 50%;
+    margin: 24px 0 12px 0;
+  }
+  
